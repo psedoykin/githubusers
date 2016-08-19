@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubUsers</string>
+    <string name="empty">Empty</string>
+    <string name="unknown_internal_error">Unknown internal error</string>
+    <string name="get_data_network_error">"Cannot load data. Please check your network connection"</string>
+    <string name="user_details_title">"User details"</string>
+    <string name="user_list_title">"Users"</string>
+
+
+</resources>

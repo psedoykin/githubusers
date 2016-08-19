@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/ic_sentiment_satisfied_black_24dp"
+        android:right="60px"
+        android:top="60px"
+        android:bottom="60px"
+        android:left="60px" />
+</layer-list>
